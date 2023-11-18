@@ -30,3 +30,4 @@ fits = llr(z = z, x = french_fries$potato, y = french_fries$buttery, omega = 50)
 plot(z, fits)
 
 # tets
+# terst2 
